@@ -8,4 +8,4 @@ the sofware is provided "AS IS", WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND
 
 
 # Download
-Either download the whole code and just execute BackUp.py or download the PalWorldBackup.exe [here](https://github.com/StopfMich/PalWorldBackup/blob/main/output/PalWorldBackup.exe) or under the output file
+Download the whole code and just execute BackUp.py
